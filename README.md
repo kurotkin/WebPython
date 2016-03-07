@@ -1,5 +1,7 @@
 # WebPython
 Задание 2
+Команды:
 
 git clone https://github.com/kurotkin/WebPython.git /home/box/WebPython
-WebPython /home/box/WebPython/my.py
+
+python /home/box/WebPython/my.py
